@@ -1,0 +1,15 @@
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\bin\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.exe
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\bin\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.deps.json
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\bin\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.runtimeconfig.json
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\bin\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\bin\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.pdb
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.csproj.AssemblyReference.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.AssemblyInfoInputs.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.AssemblyInfo.cs
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\refint\GCD210340_PROG1618_Assessment1_TraQuangDuy.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.pdb
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\GCD210340_PROG1618_Assessment1_TraQuangDuy.genruntimeconfig.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\obj\Debug\net6.0\ref\GCD210340_PROG1618_Assessment1_TraQuangDuy.dll

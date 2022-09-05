@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GCD210340_PROG1618_Assessment1_TraQuangDuy/1.0.0": {
+        "runtime": {
+          "GCD210340_PROG1618_Assessment1_TraQuangDuy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCD210340_PROG1618_Assessment1_TraQuangDuy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

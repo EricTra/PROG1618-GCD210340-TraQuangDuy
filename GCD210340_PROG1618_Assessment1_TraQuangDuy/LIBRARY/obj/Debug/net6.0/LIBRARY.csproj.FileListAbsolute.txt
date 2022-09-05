@@ -1,0 +1,30 @@
+C:\29.11\C#\Assignment_Library\LIBRARY\bin\Debug\net6.0\LIBRARY.exe
+C:\29.11\C#\Assignment_Library\LIBRARY\bin\Debug\net6.0\LIBRARY.deps.json
+C:\29.11\C#\Assignment_Library\LIBRARY\bin\Debug\net6.0\LIBRARY.runtimeconfig.json
+C:\29.11\C#\Assignment_Library\LIBRARY\bin\Debug\net6.0\LIBRARY.dll
+C:\29.11\C#\Assignment_Library\LIBRARY\bin\Debug\net6.0\LIBRARY.pdb
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.csproj.AssemblyReference.cache
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.AssemblyInfoInputs.cache
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.AssemblyInfo.cs
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.csproj.CoreCompileInputs.cache
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.dll
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\refint\LIBRARY.dll
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.pdb
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\LIBRARY.genruntimeconfig.cache
+C:\29.11\C#\Assignment_Library\LIBRARY\obj\Debug\net6.0\ref\LIBRARY.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\bin\Debug\net6.0\LIBRARY.exe
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\bin\Debug\net6.0\LIBRARY.deps.json
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\bin\Debug\net6.0\LIBRARY.runtimeconfig.json
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\bin\Debug\net6.0\LIBRARY.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\bin\Debug\net6.0\LIBRARY.pdb
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.csproj.AssemblyReference.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.AssemblyInfoInputs.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.AssemblyInfo.cs
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\refint\LIBRARY.dll
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.pdb
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\LIBRARY.genruntimeconfig.cache
+C:\Users\ASUS F15\OneDrive\Máy tính\Code project\C #\Assessment\GCD210340_PROG1618_Assessment1_TraQuangDuy\LIBRARY\obj\Debug\net6.0\ref\LIBRARY.dll
